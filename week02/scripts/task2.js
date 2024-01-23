@@ -15,7 +15,7 @@ const yearElement = document.querySelector("#year");
 yearElement.textContent = year;
 
 // Step 5: declare and instantiate a variable to hold the name and location of your picture
-const picture = "images/dickson.jpg";
+const picture = "images/dickson.png";
 
 // Step 6: place the value of the picture variable into the task2.html file in the "src" attribute of the img element
 const pictureElement = document.querySelector("#picture");
