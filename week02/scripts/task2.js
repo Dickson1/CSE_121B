@@ -24,7 +24,7 @@ pictureElement.setAttribute("src", picture);
 /* ARRAYS */
 
 // Step 1: declare and instantiate an array variable to hold your favorite foods
-const favoriteFoods = ["Burgers", "Aji de Gallina", "Pachamanca", "Ceviche"];
+const favoriteFoods = ["Ugali", "Nyama Choma", "Sukuma Wiki", "Pilau", "Chapati", "Mandazi", "Nyama Irio", "Samaki Wa Kupaka", "Kachumbari", "Maharagwe", "Matoke", "Tea and Mandazi", "Irish Stew"];
 
 // Step 2: Use JavaScript to modify the element who's id is "food" found in the task2.html file.
 const foodElement = document.querySelector("#food");
