@@ -1,7 +1,7 @@
 /* VARIABLES */
 
 // Step 1: declare and instantiate a variable to hold your name
-const newName = "Gabriel Yanqui";
+const newName = "Dickson Mng'ong'o";
 
 // Step 2: place the value of the name variable into the task2.html file inside of the element with an id of "name"
 const nameElement = document.querySelector("#name");
@@ -15,7 +15,7 @@ const yearElement = document.querySelector("#year");
 yearElement.textContent = year;
 
 // Step 5: declare and instantiate a variable to hold the name and location of your picture
-const picture = "images/gab-yan.jpg";
+const picture = "images/dickson.jpg";
 
 // Step 6: place the value of the picture variable into the task2.html file in the "src" attribute of the img element
 const pictureElement = document.querySelector("#picture");
